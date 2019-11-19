@@ -8,6 +8,8 @@ import pandas as pd
 raw_data = pd.read_csv(data)
 ```
 
+---
+
 #### SQL 
 ```sql
 SELECT * FROM table;
