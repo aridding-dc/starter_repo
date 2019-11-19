@@ -1,6 +1,6 @@
-# Testing branch 1 - H1 
+# Data Science Portfolio
 
-This is some basic text as an example. 
+This repository is built to showcase data science projects 
 
 ####  Python
 ```python
